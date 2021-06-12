@@ -2,7 +2,7 @@ https://travel-with-react.firebaseapp.com/
 
 <img src="https://github.com/Patern14/travel-with-react/blob/master/screenshots/Capture%20d%E2%80%99%C3%A9cran%202021-06-12%20161653.png" width="49%" /> <img src="https://github.com/Patern14/travel-with-react/blob/master/screenshots/Capture%20d%E2%80%99%C3%A9cran%202021-06-12%20161740.png" width="49%" />
 
-<img src="https://github.com/Patern14/travel-with-react/blob/master/screenshots/Capture%20d%E2%80%99%C3%A9cran%202021-06-12%20161820.png" width="35%" /> <img src="https://github.com/Patern14/travel-with-react/blob/master/screenshots/Capture%20d%E2%80%99%C3%A9cran%202021-06-12%20171927.png" width="35%" />
+<img src="https://github.com/Patern14/travel-with-react/blob/master/screenshots/Capture%20d%E2%80%99%C3%A9cran%202021-06-12%20161820.png" width="40%" /> - <img src="https://github.com/Patern14/travel-with-react/blob/master/screenshots/Capture%20d%E2%80%99%C3%A9cran%202021-06-12%20171927.png" width="40%" />
 
 
 
